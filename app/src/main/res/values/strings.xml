@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AITWeatherApp</string>
+    <string name="weather_app_text">Weather App</string>
+    <string name="add_text">Add</string>
+    <string name="no_cities_text">No Cities Added</string>
+    <string name="delete_text">Delete</string>
+    <string name="invalid_error_text">Invalid city name</string>
+    <string name="city_name_text">City Name</string>
+    <string name="add_new_city_text">Add New City</string>
+    <string name="error_icon_text">Error Icon</string>
+    <string name="save_text">Save</string>
+    <string name="press_refresh_text">Press refresh to do something...</string>
+    <string name="refresh_text">Refresh</string>
+    <string name="error_text">Error...</string>
+    <string name="weather_data_for">"Weather data for "</string>
+    <string name="description">"Description: "</string>
+    <string name="current_temperature">"Current Temperature: "</string>
+    <string name="minimum_temperature">"Minimum Temperature: "</string>
+    <string name="maximum_temperature">"Maximum Temperature: "</string>
+    <string name="feels_like">"Feels like: "</string>
+    <string name="colon">:</string>
+    <string name="celsius">°C</string>
+</resources>
